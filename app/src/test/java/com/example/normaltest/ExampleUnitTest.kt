@@ -17,8 +17,6 @@ class ExampleUnitTest {
 
     @Test
     fun testStringAddress(){
-        val a = "123"
-        val b = "123"
-        println(a===b)
+
     }
 }

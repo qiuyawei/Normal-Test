@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/o_qiuyw/AndroidStudioProjects/NormalTest/app/src/main/res/layout/activity_main.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/o_qiuyw/AndroidStudioProjects/NormalTest/app/src/main/res/drawable/switch_bg.xml" value="0.1" />
+        <entry key="..\:/Users/o_qiuyw/AndroidStudioProjects/NormalTest/app/src/main/res/drawable/switch_checked.xml" value="0.1605" />
+        <entry key="..\:/Users/o_qiuyw/AndroidStudioProjects/NormalTest/app/src/main/res/layout/activity_main.xml" value="0.5" />
       </map>
     </option>
   </component>

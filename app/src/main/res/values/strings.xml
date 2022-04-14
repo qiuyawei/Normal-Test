@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Normal Test</string>
+    <string-array name="titles">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
 </resources>
